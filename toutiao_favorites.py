@@ -4,7 +4,6 @@
 # DateTime: 2019年02月03日13时03分12秒
 
 import requests
-import urllib2
 import time
 import math
 import hashlib
